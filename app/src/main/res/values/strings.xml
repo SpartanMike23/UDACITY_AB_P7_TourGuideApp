@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="attractions_app_bar_text">Attractions</string>
+    <string name="events_app_bar_text">Events</string>
+    <string name="restaurants_app_bar_text">Restaurants</string>
+    <string name="public_places_app_bar_text">Public Places</string>
+    <string name="manilla_app_bar_text">Metro Manila, Philippines</string>
+    <string name="about_tab_text">About</string>
+    <string name="food_tab_text">Food</string>
+
+    <string name="description">Description</string>
+
+    <!--About-->
+    <string name="geography_text">Geography</string>
+    <string name="history_text">History</string>
+    <string name="cliamte_text">Climate</string>
+    <string name="population_text">Population</string>
+    <string name="government_text">Government</string>
+    <string name="districts_text">Districts</string>
+    <string name="human_resources_text">Human Resources</string>
+    <string name="geography_description">The region is geographically divided into 4 zones: the Coastal Margin, Guadalupe Plateau, Marikina Valley, and the Laguna Lowlands.</string>
+    <string name="history_description">Before the Spanish colonization, the Philippine culture has been influenced by the indigenous Malay heritage in Southeast Asia.</string>
+    <string name="cliamte_description">Metro Manila has a relatively short dry season from January through May, and a lengthy wet season from June through December.</string>
+    <string name="population_description">1,780,148. Roughly 13.8 of the entire countrys population.</string>
+    <string name="government_description">Home to the Malacañang Palace, the official office and residence of the President of the Philippines. The city is also the home of the Supreme Court.</string>
+    <string name="districts_description">Metro Manila is not composed of provinces. Instead, the region is divided into four geographic areas called "districts."</string>
+    <string name="human_resources_description">Human Resources</string>
+    <!--Food-->
+    <string name="chow_king_text">Chow King</string>
+    <string name="chow_king_description">Price: $</string>
+    <string name="jollibee_text">Jollibee</string>
+    <string name="jollibee_description">Price: $</string>
+    <string name="kamayan_text">Kamayan</string>
+    <string name="kamayan_description">Price: $$$</string>
+    <string name="harbor_view_text">Harbor View</string>
+    <string name="harbor_view_description">Price: $$$</string>
+    <string name="leau_vive_text">LEau Vive</string>
+    <string name="leau_vive_description">Price: $$$$</string>
+    <string name="aristocrats_text">The Aristocrats</string>
+    <string name="aristocrats_description">Price: $$$</string>
+    <string name="spices_text">The Spices</string>
+    <string name="spices_description">Price: $$$$</string>
+    <!--Events-->
+    <string name="concert_text">Special Concert Series</string>
+    <string name="concert_description">27/07/2016 7:30 pm - 28/09/2016 7:30 pm
+Location: Tanghalang Aurelio Tolentino</string>
+    <string name="food_and_drink_text">Food and Drink Asia</string>
+    <string name="food_and_drink_description">01/09/2016 10:00 am - 04/09/2016 7:00 pm
+Location: World Trade Center</string>
+    <string name="dirty_text">Dirty Old Music</string>
+    <string name="dirty_description">01/09/2016 8:00 pm - 10/09/2016 8:00 pm
+Location: Music Museum Greenhills Shopping Center</string>
+    <string name="fitness_wellness_text">Fitness and Wellness Expo</string>
+    <string name="fitness_wellness_description">03/09/2016 12:00 pm - 03/09/2016 12:00 pm
+Location: SMX Convention Center MOA, Mall of Asia Complex</string>
+    <string name="mbc_text">MBC Music Show Champion</string>
+    <string name="mbc_description">03/09/2016 7:00 pm - 03/09/2016 7:00 pm
+Location: MALL OF ASIA ARENA</string>
+    <string name="wwe_text">WWE Live in Manila</string>
+    <string name="wwe_description">09/09/2016 10:00 am - 09/09/2016 10:00 am
+Location: Mall Of Asia Arena</string>
+    <!--Public Places-->
+    <string name="mall_of_asia_text">Mall of Asia</string>
+    <string name="mall_of_asia_description">This mall is the largest in the Philippines and the 7th biggest in the world. </string>
+    <string name="mega_mall_text">Mega Mall</string>
+    <string name="mega_mall_description">This mall provides a great entertainment to the shoppers with its karaoke bars and huge arcade.</string>
+    <string name="glorietta_text">Glorietta</string>
+    <string name="glorietta_description"> Remember to hold on to your wallets if you plan to shop in this mall because you are sure to spend a lot of time here.</string>
+    <string name="green_belt_text">Green Belt</string>
+    <string name="green_belt_description">Western tourists and foreign business executives are sighted here frequently because the mall is in the heart of Manila’s financial center.</string>
+    <string name="trinoma_text">Trinoma</string>
+    <string name="trinoma_description">The mall can take pride of fabulous architecture: a reverse waterfall, multi-layered terraces and a glowing façade which changes color.</string>
+    <string name="robinson_text">Robinsons</string>
+    <string name="robinson_description">A great shopping center with a huge grochery store!</string>
+    resourcesODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
